@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": null,
+        "title": "IOC gives 14 Russians, 11 Belarusians neutral status for Paris Olympics - ESPN",
+        "description": "The IOC approved 14 athletes from Russia and 11 Belarusians with neutral status to compete at the Paris Olympics in a first list from some sports published Saturday.",
+        "url": "https://www.espn.com/olympics/story/_/id/40355228/ioc-gives-14-russians-11-belarusians-neutral-status-paris-olympics",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0306%2Fr1301020_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-06-15T11:05:09Z",
+        "content": "Jun 15, 2024, 07:05 AM ET\r\nLAUSANNE, Switzerland -- The IOC approved 14 athletes from Russia and 11 Belarusians with neutral status to compete at the Paris Olympics in a first list from some sports p… [+1119 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news-au",
+          "name": "Google News (Australia)"
+        },
+        "author": "Fox Sports",
+        "title": "‘It’s been surreal’: ‘Numb’ Dusty’s rare emotional interview… and emphatic response to rumour - Fox Sports",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMi5wFodHRwczovL3d3dy5mb3hzcG9ydHMuY29tLmF1L2FmbC90ZWFtcy9yaWNobW9uZC10aWdlcnMvYWZsLW5ld3MtMjAyNC1kdXN0aW4tbWFydGluLXZpZGVvLWludGVydmlldy13aXRoLWZveC1mb290eXMtamFjay1yaWV3b2xkdC1hZnRlci0zMDB0aC1nYW1lLWZ1bGwtdHJhbnNjcmlwdC1yaWNobW9uZC1sb3NlLXRvLWhhd3Rob3JuL25ld3Mtc3RvcnkvZGY2OTgzYjk3MTZlNWUzYzVmZWUxM2YwNjhkNzlkZjbSAecBaHR0cHM6Ly93d3cuZm94c3BvcnRzLmNvbS5hdS9hZmwvdGVhbXMvcmljaG1vbmQtdGlnZXJzL2FmbC1uZXdzLTIwMjQtZHVzdGluLW1hcnRpbi12aWRlby1pbnRlcnZpZXctd2l0aC1mb3gtZm9vdHlzLWphY2stcmlld29sZHQtYWZ0ZXItMzAwdGgtZ2FtZS1mdWxsLXRyYW5zY3JpcHQtcmljaG1vbmQtbG9zZS10by1oYXd0aG9ybi9uZXdzLXN0b3J5L2RmNjk4M2I5NzE2ZTVlM2M1ZmVlMTNmMDY4ZDc5ZGY2?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-06-15T10:38:42+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Tassilo Hummel, Gleb Stolyarov, Polina, Nikolskaya, David Gauthier-Villars",
+        "title": "The Dutchman who gets Nike and Lego into wartime Russia’s stores",
+        "description": "Nike stopped selling its sportswear to Russia soon after Moscow launched its full-scale invasion of Ukraine over two years ago. But that hasn’t stopped footballstore.ru, an online sports retailer owned by Russia’s Zenit soccer club.",
+        "url": "https://www.reuters.com/business/retail-consumer/dutchman-who-gets-nike-lego-into-wartime-russias-stores-2024-06-15/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/JK6NB33AFVPIRDXDZKEJQ7YD4E.jpg?auth=b7343787302cec79ae7cc51195cef026cffd4db39f5c9f74047062083b7467b2&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-06-15T09:59:29Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Annette Choi",
+        "title": "The rise in sports betting and gambling violations by pro athletes, in 4 charts",
+        "description": "As the sports betting industry continues to rake in record-breaking revenue, a growing number of professional athletes have become entangled in gambling scandals and gambling addiction helplines are reporting a rise people asking for help.",
+        "url": "https://www.cnn.com/2024/06/15/sport/sports-betting-gambling-professional-athletes-dg/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240612-sports-betting-card-exlargetease.png?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-06-15T09:00:16Z",
+        "content": "As the sports betting industry continues to rake in record-breaking revenue, a growing number of professional athletes have become entangled in gambling scandals and gambling addiction helplines are … [+4068 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "John Fanta, Michael Cohen",
+        "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+        "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+        "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+        "publishedAt": "2024-02-29T20:59:30Z",
+        "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "New Micah Parsons Show ",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+        "urlToImage": null,
+        "publishedAt": "2023-11-27T20:37:24.6381564Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": " Mikal Bridges Interview ",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+        "urlToImage": null,
+        "publishedAt": "2023-11-27T20:37:24.3882176Z",
+        "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+      }
+    ]
+  }
