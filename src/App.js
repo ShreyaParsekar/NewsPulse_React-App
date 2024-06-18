@@ -21,7 +21,7 @@ const App = () =>{
   
     return (
       <div>
-        <Router>
+        <Router basename="/NewsPulse_React-App">
         <Navbar/>
         <LoadingBar
         height={3}
